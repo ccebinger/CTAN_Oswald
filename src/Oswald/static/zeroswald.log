@@ -1,0 +1,456 @@
+
+
+############################################################################
+
+
+[2020-12-25 23:55:26]  /usr/local/texlive/2020/bin/x86_64-linux/autoinst, version 20201218
+
+Command was:
+
+    "/usr/local/texlive/2020/bin/x86_64-linux/autoinst -target=texmf -vendor=public -typeface=Arvo -encoding=OT1,T1,TS1,LY1 0swald-Bold.otf 0swald-ExtraLight.otf 0swald-Light.otf 0swald-Medium.otf 0swald-Regular.otf 0swald-SemiBold.otf"
+
+----------------------------------------------------------------------------
+
+I'm using the following options:
+
+    encoding(s):        OT1, T1, LY1
+    NFSS:               rm (serif)
+
+    lining:             yes
+    oldstyle:           yes
+    proportional:       yes
+    tabular:            yes
+    ts1:                yes
+    smallcaps:          yes
+    swash:              yes
+    titling:            yes
+    superiors:          yes
+    inferiors:          none
+    ornaments:          yes
+    fractions:          no
+    ligatures:          yes
+
+    target:             texmf
+    extra:              
+
+    figurekern:         keep
+
+    nfssweight:         
+    nfsswidth:          
+
+    math:               no
+    mathspacing:        0
+
+    fontname suffix:    (none)
+
+----------------------------------------------------------------------------
+
+Results of font info parsing:
+
+    0swald-Bold.otf
+        Name:       0swald-Bold
+        Family:     Zeroswald
+        Subfamily:  
+        Weight:     bold (700)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   aalt, case, ccmp, dlig, frac, kern, liga, mark, mkmk, ordn, sups
+
+    0swald-ExtraLight.otf
+        Name:       0swald-ExtraLight
+        Family:     Zeroswald
+        Subfamily:  
+        Weight:     extralight (250)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   aalt, case, ccmp, dlig, frac, kern, liga, mark, mkmk, ordn, sups
+
+    0swald-Light.otf
+        Name:       0swald-Light
+        Family:     Zeroswald
+        Subfamily:  
+        Weight:     light (300)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   aalt, case, ccmp, dlig, frac, kern, liga, mark, mkmk, ordn, sups
+
+    0swald-Medium.otf
+        Name:       0swald-Medium
+        Family:     Zeroswald
+        Subfamily:  
+        Weight:     medium (500)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   aalt, case, ccmp, dlig, frac, kern, liga, mark, mkmk, ordn, sups
+
+    0swald-Regular.otf
+        Name:       0swald-Regular
+        Family:     Zeroswald
+        Subfamily:  
+        Weight:     regular (400)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   aalt, case, ccmp, dlig, frac, kern, liga, mark, mkmk, ordn, sups
+
+    0swald-SemiBold.otf
+        Name:       0swald-SemiBold
+        Family:     Zeroswald
+        Subfamily:  
+        Weight:     semibold (600)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   aalt, case, ccmp, dlig, frac, kern, liga, mark, mkmk, ordn, sups
+
+----------------------------------------------------------------------------
+
+NFSS mappings:
+
+    ul  =>  
+    el  =>  extralight
+    l   =>  light
+    sl  =>  
+    m   =>  regular
+    sb  =>  semibold
+    b   =>  bold
+    eb  =>  
+    ub  =>  
+
+    uc  =>  
+    ec  =>  
+    c   =>  
+    sc  =>  
+    m   =>  regular
+    sx  =>  
+    x   =>  
+    ex  =>  
+    ux  =>  
+
+    ------------------------------------------------------------------------
+
+    0swald-Bold.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     Sup     n       sups
+            LY1     TLF     n       kern, liga
+            OT1     Sup     n       sups
+            OT1     TLF     n       kern, liga
+            T1      Sup     n       sups
+            T1      TLF     n       kern, liga
+            TS1     TLF     n       
+
+    ------------------------------------------------------------------------
+
+    0swald-ExtraLight.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     Sup     n       sups
+            LY1     TLF     n       kern, liga
+            OT1     Sup     n       sups
+            OT1     TLF     n       kern, liga
+            T1      Sup     n       sups
+            T1      TLF     n       kern, liga
+            TS1     TLF     n       
+
+    ------------------------------------------------------------------------
+
+    0swald-Light.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     Sup     n       sups
+            LY1     TLF     n       kern, liga
+            OT1     Sup     n       sups
+            OT1     TLF     n       kern, liga
+            T1      Sup     n       sups
+            T1      TLF     n       kern, liga
+            TS1     TLF     n       
+
+    ------------------------------------------------------------------------
+
+    0swald-Medium.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     Sup     n       sups
+            LY1     TLF     n       kern, liga
+            OT1     Sup     n       sups
+            OT1     TLF     n       kern, liga
+            T1      Sup     n       sups
+            T1      TLF     n       kern, liga
+            TS1     TLF     n       
+
+    ------------------------------------------------------------------------
+
+    0swald-Regular.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     Sup     n       sups
+            LY1     TLF     n       kern, liga
+            OT1     Sup     n       sups
+            OT1     TLF     n       kern, liga
+            T1      Sup     n       sups
+            T1      TLF     n       kern, liga
+            TS1     TLF     n       
+
+    ------------------------------------------------------------------------
+
+    0swald-SemiBold.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     Sup     n       sups
+            LY1     TLF     n       kern, liga
+            OT1     Sup     n       sups
+            OT1     TLF     n       kern, liga
+            T1      Sup     n       sups
+            T1      TLF     n       kern, liga
+            TS1     TLF     n       
+
+
+############################################################################
+
+
+[2020-12-25 23:56:04]  /usr/local/texlive/2020/bin/x86_64-linux/autoinst, version 20201218
+
+Command was:
+
+    "/usr/local/texlive/2020/bin/x86_64-linux/autoinst -target=texmf -vendor=public -typeface=Oswald -encoding=OT1,T1,TS1,LY1 0swald-Bold.otf 0swald-ExtraLight.otf 0swald-Light.otf 0swald-Medium.otf 0swald-Regular.otf 0swald-SemiBold.otf"
+
+----------------------------------------------------------------------------
+
+I'm using the following options:
+
+    encoding(s):        OT1, T1, LY1
+    NFSS:               rm (serif)
+
+    lining:             yes
+    oldstyle:           yes
+    proportional:       yes
+    tabular:            yes
+    ts1:                yes
+    smallcaps:          yes
+    swash:              yes
+    titling:            yes
+    superiors:          yes
+    inferiors:          none
+    ornaments:          yes
+    fractions:          no
+    ligatures:          yes
+
+    target:             texmf
+    extra:              
+
+    figurekern:         keep
+
+    nfssweight:         
+    nfsswidth:          
+
+    math:               no
+    mathspacing:        0
+
+    fontname suffix:    (none)
+
+----------------------------------------------------------------------------
+
+Results of font info parsing:
+
+    0swald-Bold.otf
+        Name:       0swald-Bold
+        Family:     Zeroswald
+        Subfamily:  
+        Weight:     bold (700)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   aalt, case, ccmp, dlig, frac, kern, liga, mark, mkmk, ordn, sups
+
+    0swald-ExtraLight.otf
+        Name:       0swald-ExtraLight
+        Family:     Zeroswald
+        Subfamily:  
+        Weight:     extralight (250)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   aalt, case, ccmp, dlig, frac, kern, liga, mark, mkmk, ordn, sups
+
+    0swald-Light.otf
+        Name:       0swald-Light
+        Family:     Zeroswald
+        Subfamily:  
+        Weight:     light (300)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   aalt, case, ccmp, dlig, frac, kern, liga, mark, mkmk, ordn, sups
+
+    0swald-Medium.otf
+        Name:       0swald-Medium
+        Family:     Zeroswald
+        Subfamily:  
+        Weight:     medium (500)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   aalt, case, ccmp, dlig, frac, kern, liga, mark, mkmk, ordn, sups
+
+    0swald-Regular.otf
+        Name:       0swald-Regular
+        Family:     Zeroswald
+        Subfamily:  
+        Weight:     regular (400)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   aalt, case, ccmp, dlig, frac, kern, liga, mark, mkmk, ordn, sups
+
+    0swald-SemiBold.otf
+        Name:       0swald-SemiBold
+        Family:     Zeroswald
+        Subfamily:  
+        Weight:     semibold (600)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   aalt, case, ccmp, dlig, frac, kern, liga, mark, mkmk, ordn, sups
+
+----------------------------------------------------------------------------
+
+NFSS mappings:
+
+    ul  =>  
+    el  =>  extralight
+    l   =>  light
+    sl  =>  
+    m   =>  regular
+    sb  =>  semibold
+    b   =>  bold
+    eb  =>  
+    ub  =>  
+
+    uc  =>  
+    ec  =>  
+    c   =>  
+    sc  =>  
+    m   =>  regular
+    sx  =>  
+    x   =>  
+    ex  =>  
+    ux  =>  
+
+    ------------------------------------------------------------------------
+
+    0swald-Bold.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     Sup     n       sups
+            LY1     TLF     n       kern, liga
+            OT1     Sup     n       sups
+            OT1     TLF     n       kern, liga
+            T1      Sup     n       sups
+            T1      TLF     n       kern, liga
+            TS1     TLF     n       
+
+    ------------------------------------------------------------------------
+
+    0swald-ExtraLight.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     Sup     n       sups
+            LY1     TLF     n       kern, liga
+            OT1     Sup     n       sups
+            OT1     TLF     n       kern, liga
+            T1      Sup     n       sups
+            T1      TLF     n       kern, liga
+            TS1     TLF     n       
+
+    ------------------------------------------------------------------------
+
+    0swald-Light.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     Sup     n       sups
+            LY1     TLF     n       kern, liga
+            OT1     Sup     n       sups
+            OT1     TLF     n       kern, liga
+            T1      Sup     n       sups
+            T1      TLF     n       kern, liga
+            TS1     TLF     n       
+
+    ------------------------------------------------------------------------
+
+    0swald-Medium.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     Sup     n       sups
+            LY1     TLF     n       kern, liga
+            OT1     Sup     n       sups
+            OT1     TLF     n       kern, liga
+            T1      Sup     n       sups
+            T1      TLF     n       kern, liga
+            TS1     TLF     n       
+
+    ------------------------------------------------------------------------
+
+    0swald-Regular.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     Sup     n       sups
+            LY1     TLF     n       kern, liga
+            OT1     Sup     n       sups
+            OT1     TLF     n       kern, liga
+            T1      Sup     n       sups
+            T1      TLF     n       kern, liga
+            TS1     TLF     n       
+
+    ------------------------------------------------------------------------
+
+    0swald-SemiBold.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     Sup     n       sups
+            LY1     TLF     n       kern, liga
+            OT1     Sup     n       sups
+            OT1     TLF     n       kern, liga
+            T1      Sup     n       sups
+            T1      TLF     n       kern, liga
+            TS1     TLF     n       
