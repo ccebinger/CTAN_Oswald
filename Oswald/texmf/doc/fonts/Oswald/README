@@ -10,7 +10,7 @@ To use, add
 
      \usepackage{Oswald}
 
-to the preamble of your document. These will activate Arvo
+to the preamble of your document. These will activate Oswald
 as the text font. 
 
 Options scaled=<number> or scale=<number> may be used to scale the fonts.
